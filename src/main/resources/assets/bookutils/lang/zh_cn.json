@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.bookutils.title": "书籍实用工具",
+  "text.autoconfig.bookutils.option.smallBookGui": "小型书本GUI",
+  "text.autoconfig.bookutils.option.bookmarking": "添加书签",
+  "key.bookutils.toggleSmallGui": "切换小型书本编辑GUI",
+  "key.bookutils.toggleBookmarking": "切换书签",
+  "message.bookutils.enabledBookmarking": "本地书签已启用",
+  "message.bookutils.disabledBookmarking": "本地书签已禁用",
+  "message.bookutils.enabledSmallGui": "已启用小型书本GUI",
+  "message.bookutils.disabledSmallGui": "已禁用小型书本GUI",
+  "category.bookutils": "书籍实用工具"
+}
